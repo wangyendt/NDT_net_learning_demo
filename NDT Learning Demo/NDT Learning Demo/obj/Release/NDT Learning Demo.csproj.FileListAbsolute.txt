@@ -1,0 +1,10 @@
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\obj\Release\NDT_Learning_Demo.Form1.resources
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\obj\Release\NDT_Learning_Demo.Properties.Resources.resources
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\obj\Release\NDT Learning Demo.csproj.GenerateResource.Cache
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\obj\Release\NDT Learning Demo.csproj.CoreCompileInputs.cache
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\bin\Release\NDT Learning Demo.exe.config
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\bin\Release\NDT Learning Demo.exe
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\bin\Release\NDT Learning Demo.pdb
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\obj\Release\NDT Learning Demo.exe
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\obj\Release\NDT Learning Demo.pdb
+E:\Programmes\CSharp\NDT Learning Demo\NDT Learning Demo\obj\Release\NDT Learning Demo.csprojResolveAssemblyReference.cache
